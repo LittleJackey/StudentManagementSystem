@@ -1,0 +1,3 @@
+D:/project/C/stums-V3.0/cmake-build-debug/CMakeFiles/stums.dir
+D:/project/C/stums-V3.0/cmake-build-debug/CMakeFiles/edit_cache.dir
+D:/project/C/stums-V3.0/cmake-build-debug/CMakeFiles/rebuild_cache.dir
